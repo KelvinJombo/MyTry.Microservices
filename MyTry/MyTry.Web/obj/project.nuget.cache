@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IjmviVJMR0xkivgKXFCo+cPNLR8EIgGwOknyEIE1bPZE+7hFeqfBtoXrLw/2lLsC5kJxHyiU9DfS/o5V96YEsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\OneDrive\\Desktop\\MyTry Microservices\\MyTry.Microservices\\MyTry\\MyTry.Web\\MyTry.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
