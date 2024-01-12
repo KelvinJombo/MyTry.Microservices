@@ -55,8 +55,8 @@ namespace MyTry.Web.Service
                         return new() { IsSuccess = false, Message = "Not Found" };
                     case HttpStatusCode.Forbidden:
                         return new() { IsSuccess = false, Message = "Access Denied" };
-                    case HttpStausCode.Unauthorised:
-                        return new() { IsSuccess = false, Message = "Unauthorized" };
+                    //case HttpStausCode.Unauthorised:
+                    //    return new() { IsSuccess = false, Message = "Unauthorized" };
                     case HttpStatusCode.InternalServerError:
                         return new() { IsSuccess = false, Message = "Internal Server Error" };
                     default:
